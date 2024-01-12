@@ -1,42 +1,40 @@
 [
-     {
-         "name": "Guyana",
-         "leaderName": "Forbes Burnham",
-		    "adjective": ["Guyanese"],
-		    "outerColor": [87, 129, 167],
-		    "innerColor": [252, 209, 22],
-		    "spyNames": ["Jhon","Patrick","Bibi"],
-
-		    "startBias": ["Coast"],
-		    "preferredVictoryType": "Diplomatic",
-		    "favoredReligion": "Christianity",
-
-	  	"startIntroPart1": "Good day it is, Julio, you, unlike others, did great things for Argentina, a prideful nation with good prowess. Argentina came from the provinces of the 'de La Plata river', who broke free from Spain into their own path. Conquering the Mapuches, they expanded their territory, and after that, their economy grew more and more, until becoming one of the best in Latin America. Although not being very successful in war, Argentina today is stable and periodically good.",
-		"startIntroPart2": "President, your people call you to bring good to the country. Will you make a civilization that can stand the pass of time?",
+	{
+		"name": "Guyana",
+		"leaderName": "Forbes Burnham",
+		"adjective": ["guyanese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
 		
-	  	"introduction": "I am Julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
-		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
-  		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
-	  	"afterPeace": "Although we are at peace, I still want to see you defeated.",
-  		"defeated": "You are just another nation, this victory will not change that, because I actually gave up.",
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-	  	"neutralHello": "Good morning.",
-		"hateHello": "Will you treat me how I deserve?!",
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-  		"tradeRequest": "I know you want this trade, I'm sure of that.",
-  		"neutralLetsHearIt": "Yeah, I hear your offer.",
-  		"hateLetsHearIt": ["Ok, what is it?", "Ok.. let's hear it..."],
-  		"neutralNo": ["No no.", "Thank you, but no."],
-	  	"neutralYes": ["Thank you very much, goodbye.", "This is what I wanted!..."],
-  		"hateNo": ["NO, no in the slightest", "Uy, no! How could you think on such a thing!?"],
-	  	"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
-
-		"uniqueName": "Co-operative Republic",
-                "uniques": ["[+1 Culture, +1 Happiness] from every [Customs house]","[+3 Gold, +2 Happiness] from every [Oil well] improvement",
-                  "Free social policy <upon gaining a [Great Merchant] unit>", "[+1 Gold,+2 Food] from every [River] tile <upon discovering [Fertilizer]"],
-       
-  		"cities": ["Georgetown","Linden","Anna Regina","New Amsterdam",,"Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "Co-operative Republic",
+      "uniques": ["[+1 Culture, +1 Happiness] from every [Customs house]","[+3 Gold, +2 Happiness] from every [Oil well] improvement",
+                  "Free social policy <upon gaining a [Great Merchant] unit>", 
+		
+		"cities": ["Georgetown","Linden","Anna Regina","New Amsterdam","Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
                             "Corriverton","Parika","Ituni","Rose Hall","Rosignol","Victoria","Plaisance","Kwakwani","Skeldon",
                             "Beteverwagting","Mahaicony","Lusignan","Cane Grove","Charity"]
-     }
+	}
 ]
