@@ -31,8 +31,8 @@
   		"hateNo": ["NO, no in the slightest", "Uy, no! How could you think on such a thing!?"],
 	  	"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
 
-		  "uniqueName": "Co-operative Republic",
-      "uniques": ["[+1 Culture,+1 Happiness] from every [Customs house]","[+3 Gold, +2 Happiness] from every [Oil well] improvement",
+		"uniqueName": "Co-operative Republic",
+                "uniques": ["[+1 Culture,+1 Happiness] from every [Customs house]","[+3 Gold, +2 Happiness] from every [Oil well] improvement",
                   "Free social policy <upon gaining a [Great Merchant] unit>", "[+1 Gold,+2 Food] from every [River] tile <upon discovering [Fertilizer]"],
        
   		"cities": ["Georgetown","Linden","Anna Regina","New Amsterdam",,"Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
