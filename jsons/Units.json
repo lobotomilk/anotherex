@@ -12,6 +12,5 @@
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
 	}
 ]
