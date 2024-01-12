@@ -1,10 +1,10 @@
 [
 	{
 		"name": "Guyana",
-		"leaderName": "Forbes Burnham",
+		"leaderName": "Burnham",
 		"adjective": ["guyanese"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -29,12 +29,10 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "Co-operative Republic",
-      		"uniques": ["[+1 Culture, +1 Happiness] from every [Customs house]","[+3 Gold, +2 Happiness] from every [Oil well] improvement",
-                "Free social policy <upon gaining a [Great Merchant] unit>", 
-		
-		"cities": ["Georgetown","Linden","Anna Regina","New Amsterdam","Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington",
-			"Triumph","Vreed en Hoop","Corriverton","Parika","Ituni","Rose Hall","Rosignol","Victoria","Plaisance","Kwakwani","Skeldon",
-			"Beteverwagting","Mahaicony","Lusignan","Cane Grove","Charity"]		
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
