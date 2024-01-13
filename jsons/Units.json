@@ -4,10 +4,13 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Guyana",
 		"replaces": "Infantry",
-		"movement": 2,
-		"strength": 27,
-		"cost": 500,
+		"movement": 3,
+		"strength": 75,
+		"cost": 200,
 		"requiredTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["Can build [Land] improvements on tiles <when not at war>",
 		"promotions": ["Woodsman"]
 	}
 ]
