@@ -1,16 +1,13 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "People's Militia",
+		"unitType": "Gunpowder",
 		"uniqueTo": "Guyana",
-		"replaces": "Machine Gun",
+		"replaces": "Infantry",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"strength": 27,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredTech": "Plastics",
+		"promotions": ["Woodsman"]
 	}
 ]
