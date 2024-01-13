@@ -10,7 +10,7 @@
 		"requiredTech": "Plastics",
 		"obsoleteTech": "Mobile Tactics",
 		"upgradesTo": "Mechanized Infantry",
-		"uniques": ["Can build [Land] improvements on tiles <when not at war>",
+		"uniques": ["Can build [Land] improvements on tiles <when not at war>"],
 		"promotions": ["Woodsman"]
 	}
 ]
