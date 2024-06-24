@@ -1,7 +1,8 @@
 [
 	{//Guyanas
-		"name": "Paddy Field",
+		"name": "Rice Field",
 		"terrainsCanBeBuiltOn": ["Marsh","River","Flood plains"],
+		"replaces": "Farm",
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
