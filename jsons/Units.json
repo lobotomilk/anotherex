@@ -1,16 +1,18 @@
 [
-	{
+	{ //GUYANA
 		"name": "People's Militia",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Guyana",
-		"replaces": "Infantry",
-		"movement": 3,
-		"strength": 75,
-		"cost": 200,
-		"requiredTech": "Plastics",
-		"obsoleteTech": "Mobile Tactics",
-		"upgradesTo": "Mechanized Infantry",
+		"range": 1,
+		"movement": 2,
+		"strength": 55,
+		"rangedStrength": 60,
+		"cost": 325,
+		"requiredTech": "Ballistics",
 		"uniques": ["Can build [Land] improvements on tiles <when not at war>"],
-		"promotions": ["Woodsman"]
-	}
+		"promotions": ["Woodsman"],
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+		// Upgrades to Bazooka in BNW
+	},
 ]
